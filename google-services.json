@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "225862548574",
+    "firebase_url": "https://gramayatri-a01bf-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "gramayatri-a01bf",
+    "storage_bucket": "gramayatri-a01bf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225862548574:android:e692105144e8df016348cf",
+        "android_client_info": {
+          "package_name": "com.gramayatri.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_XzLO_238wl-rWjeLV8Ch3A5EdeWSkZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
